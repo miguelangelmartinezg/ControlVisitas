@@ -1,0 +1,22 @@
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\Entities.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\Entities.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\Entities.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\bin\Debug\Entities.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

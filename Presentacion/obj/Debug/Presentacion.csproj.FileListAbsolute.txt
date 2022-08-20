@@ -1,0 +1,47 @@
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmRegister.resources
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmRegistrarAlumno.resources
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\Entities.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\Entities.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmControlVistas.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Entities.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Entities.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmControlVistas.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmRegister.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmRegistrarAlumno.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.frmVisitas.resources
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\Interop.WMPLib.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache

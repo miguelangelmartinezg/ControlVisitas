@@ -1,0 +1,12 @@
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\bin\Debug\Entities.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\bin\Debug\Entities.pdb
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\obj\Debug\Entities.dll
+C:\Users\hijij\source\repos\ItlaRegistroVisitas\Entities\obj\Debug\Entities.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\bin\Debug\Entities.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\bin\Debug\Entities.pdb
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\obj\Debug\Entities.dll
+C:\Users\Prueba\Desktop\ITLA\4 CUATRIMESTRE\5- Programacion II\ItlaRegistroVisitas\Entities\obj\Debug\Entities.pdb
